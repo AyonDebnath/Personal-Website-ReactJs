@@ -1,3 +1,3 @@
-Personal Website devopled using React JS
+Devopled using React JS
 
-(Done as a personal project to practice React JS)
+(My attempt to learning React Js)
